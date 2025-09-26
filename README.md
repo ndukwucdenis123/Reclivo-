@@ -1,2 +1,12 @@
-# Reclivo-
-Private repository for Reclivo — AI-powered transaction scanner &amp; reclaim tool. Contains legal docs, landing page, and MVP blueprints.
+# Reclivo — Proof of Concept
+
+Private repository for early documentation, agreements, and landing page.
+Evidence of ownership and prior work.
+
+Contents:
+- NDA
+- Terms of Service
+- Privacy Policy
+- Landing Page (Coming Soon)
+
+This repo is for internal use only.
