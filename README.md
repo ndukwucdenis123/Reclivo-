@@ -1,4 +1,4 @@
-# Reclivo — Proof of Concept
+# Riclivo — Proof of Concept
 
 Private repository for early documentation, agreements, and landing page.
 Evidence of ownership and prior work.
